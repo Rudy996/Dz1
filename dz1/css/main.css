@@ -1,0 +1,65 @@
+body {
+	background: -webkit-linear-gradient(350deg, pink, yellow, blue);
+	padding: 0px;
+	margin: 0;
+
+}
+
+.container {
+
+	margin-left: 60px;
+	margin-right: 60px;
+}
+
+header img {
+	padding-top: 25px;
+	width: 100px;
+	height: 100px;
+	padding-left: 50px;
+}
+
+header ul { 
+	float: right;
+
+ }
+
+ header li {
+ 	padding-top: 50px;
+ 	float: left;
+ 	margin-right: 25px;
+ 	display: block;
+ 	padding-right: 50px;
+ }
+
+ header a {
+ 	text-decoration: none;
+ 	color: black;
+ }
+
+ .head {
+ 	padding-top: 75px;
+ }
+
+ .head h1 {
+ 	font-size: 62px;
+ }
+
+ .head {
+ 	text-align: center;
+ }
+ 
+ .ph1 {
+ 	position: absolute;
+ 	padding-top: 200px;
+ 	padding-left: 100px;
+ }
+
+.os {
+	font-size: 24px;
+	padding-top: 200px;
+	text-align: center;
+}
+
+.ph2 {
+	padding-left: 530px;
+}
